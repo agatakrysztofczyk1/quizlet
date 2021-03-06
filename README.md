@@ -1,2 +1,2 @@
 # quizlet
-Database structure for quizzes
+Database structure for quizzes in MySQL
